@@ -1,0 +1,13 @@
+
+cli begin
+
+cli include begin
+#include <string>
+#include <stdint.h>
+cli include end
+
+cli command begin
+
+cli command end
+
+cli end
